@@ -1,0 +1,24 @@
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\NinjectConsole.exe.config
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\NinjectConsole.exe
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\NinjectConsole.pdb
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\ConsoleAppSharedServices.dll
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\Ninject.dll
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\ConsoleAppSharedServices.pdb
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\bin\Debug\Ninject.xml
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.csproj.CopyComplete
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.exe
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.pdb
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\NinjectConsole.exe.config
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\NinjectConsole.exe
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\NinjectConsole.pdb
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\ConsoleAppSharedServices.dll
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\Ninject.dll
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\ConsoleAppSharedServices.pdb
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\bin\Debug\Ninject.xml
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.csprojResolveAssemblyReference.cache
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.csproj.CoreCompileInputs.cache
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.csproj.CopyComplete
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.exe
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\NinjectConsole\obj\Debug\NinjectConsole.pdb

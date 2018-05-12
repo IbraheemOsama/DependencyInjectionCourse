@@ -1,0 +1,18 @@
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\ConsoleAppSharedServices.dll
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\ConsoleAppSharedServices.pdb
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\Ninject.dll
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\Ninject.xml
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.csprojResolveAssemblyReference.cache
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.csproj.CoreCompileInputs.cache
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.csproj.CopyComplete
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.dll
+C:\Users\mityh\Documents\Visual Studio 2017\Projects\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.pdb
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\ConsoleAppSharedServices.dll
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\ConsoleAppSharedServices.pdb
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\Ninject.dll
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\bin\Debug\Ninject.xml
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.csprojResolveAssemblyReference.cache
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.csproj.CoreCompileInputs.cache
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.csproj.CopyComplete
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.dll
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\ConsoleAppSharedServices\obj\Debug\ConsoleAppSharedServices.pdb

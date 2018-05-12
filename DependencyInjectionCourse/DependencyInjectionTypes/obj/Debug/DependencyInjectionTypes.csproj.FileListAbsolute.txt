@@ -1,0 +1,7 @@
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\bin\Debug\DependencyInjectionTypes.exe.config
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\bin\Debug\DependencyInjectionTypes.exe
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\bin\Debug\DependencyInjectionTypes.pdb
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\obj\Debug\DependencyInjectionTypes.csprojResolveAssemblyReference.cache
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\obj\Debug\DependencyInjectionTypes.csproj.CoreCompileInputs.cache
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\obj\Debug\DependencyInjectionTypes.exe
+C:\Users\mityh\Documents\GitHub\DependencyInjectionCourse\DependencyInjectionCourse\DependencyInjectionTypes\obj\Debug\DependencyInjectionTypes.pdb
