@@ -9,7 +9,9 @@ namespace AutofacWebMvcFive.Modules
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<DataRepository>().As<IDataRepository>().InstancePerRequest();
+
             builder.RegisterType<UserRepository>().AsImplementedInterfaces();
+
             builder.RegisterType<UserProvider>().As<IUserProvider>().SingleInstance();
 
             base.Load(builder);
