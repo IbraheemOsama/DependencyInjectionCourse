@@ -23,6 +23,16 @@ namespace AutofacWebMvcFive.Controllers
             return View();
         }
 
+        public ActionResult AngularJs()
+        {
+            return View();
+        }
+
+        public ActionResult CustomIocJs()
+        {
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
